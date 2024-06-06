@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi! I'm Walter hi
 I'am a Full Stack Developer. I am passionate about developing innovative and functional technological applications. I am convinced that technology is the foundation of successful companies today. <br><br>I have gained hands-on coding skills, particularly in the PERN stack: PostgreSQL, Express, React, and Node.js. I've applied these skills to build a variety of web applications, from e-commerce platforms to social networking sites. I'm excited to continue leveraging this expertise to create innovative and impactful solutions in the future.<br><br>I am endlessly intrigued by the boundless potential inherent in each of us, and I find great joy in exploring just how far it can take us.
 
 
