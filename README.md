@@ -1,6 +1,6 @@
 # 💫 Hi! I'm Walter
 
-I'am a Full Stack Developer. I am passionate about developing innovative and functional technological applications. <br><br>I have gained hands-on coding skills, particularly in the MERN and PERN stack: MongoDB, PostgreSQL, Express, React, and Node.js. I'm excited to continue leveraging this expertise to create innovative and impactful solutions in the future.
+I'am a Full Stack Developer. I am passionate about developing innovative and functional technological applications. <br><br>I have gained hands-on coding skills, particularly in the MERN and PERN stack: MongoDB, PostgreSQL, Express, React, and Node.js. I'm excited to continue leveraging this expertise to create innovative solutions.
 
 
 ## 🌐 Socials:
